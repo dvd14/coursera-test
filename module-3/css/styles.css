@@ -1,0 +1,14 @@
+body {
+	background-color: #ccc;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+.content {
+	margin: 3em;
+	background-color: green;
+}
